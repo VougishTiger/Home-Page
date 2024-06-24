@@ -1,0 +1,14 @@
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+div {
+  margin: 5%;
+  background-color: peachpuff;
+  width: 25%;
+  margin-left: 37.6%;
+  outline-style: dotted;
+}
+header {
+  background-color: burlywood;
+}
